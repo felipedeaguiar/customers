@@ -1,5 +1,7 @@
 # customers
-
+ <p> Dividi a aplicação em um SPA em Vue e uma API Backend usando Laravel. Na API, criei um endpoint para upload de arquivos e fiz um relacionamento belongsToMany entre o model File e Customer, afim de explorar mais os recursos do laravel<p>
+ 
+ 
 # requirements
   - docker
   
